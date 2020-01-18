@@ -35,3 +35,9 @@ To do this, 'PyInstaller == 4.0.dev0 + 9dd34bdfba' version can be used. The code
 
 > **$pip install PyInstaller == 4.0.dev0 + 9dd34bdfba**
 
+
+## Output
+
+After the system embeds the encrypted text into the cover image, an image that combines the first and final version of the cover image is created. This picture can be used to understand the clarity of your data in the picture.
+
+![Output](difference_cat.png)
