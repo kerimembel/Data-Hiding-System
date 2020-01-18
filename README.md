@@ -41,3 +41,6 @@ To do this, 'PyInstaller == 4.0.dev0 + 9dd34bdfba' version can be used. The code
 After the system embeds the encrypted text into the cover image, an image that combines the first and final version of the cover image is created. This picture can be used to understand the clarity of your data in the picture.
 
 ![Output](difference_cat.png)
+
+
+When we encrypt the "text_to_hide_long.txt" file with the AES algorithm and embed it in the cover image, the difference between the images is as in the example above.
