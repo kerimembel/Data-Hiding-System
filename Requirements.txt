@@ -1,5 +1,5 @@
 numpy==1.17.4
-Pillow==8.2.0
+Pillow==10.0.1
 pycryptodome==3.9.4
 pycryptodomex==3.9.4
 stepic==0.4.1
